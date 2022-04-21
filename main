@@ -1,0 +1,4 @@
+local wallet = game.Players.PLAYERNAMEHERE.Valuestats.Wallet.Value
+print(wallet)
+--Replace the PLAYERNAMEHERE with the users name that you wanna view their wallet
+--Then press F9 and untick information warnings and error then paste the script in and execute and done
